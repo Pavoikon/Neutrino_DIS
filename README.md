@@ -9,7 +9,7 @@ The [CT18 ANLO](https://journals.aps.org/prd/abstract/10.1103/PhysRevD.103.01401
 - `Fe_Structure_Functions.py` serves as an example on Structure Functions evaluation accounting for a Neutrino DIS with Fe targets.
 
 - `Cross_Section.py` is the main code. It computes the average differential cross-section of (Anti)Neutrino Deep Inelastic Scattering with Fe and H2O. The energy spectrum in each case is chosen such that
-a comparison with experimental/observational data[^1],[^2],[^3],[^4] can be made.
+a comparison with experimental/observational data[^1][^2][^3][^4] can be made.
 
 
 # References
