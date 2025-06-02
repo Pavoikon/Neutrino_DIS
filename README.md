@@ -1,7 +1,7 @@
 # Neutrino_DIS
 A simple python code that I built to evaluate Structure Functions and Cross-Sections for Neutrino Deep Inelastic Scattering at ***Leading Order***.
 
-For the Structure Function evaluation, the python package [parton](https://github.com/DavidMStraub/parton) has been utilised which implements the necessary features of [LHAPF](https://www.lhapdf.org/index.html). 
+For the Structure Function evaluation, the python package [parton](https://github.com/DavidMStraub/parton) has been utilised which implements the necessary features of [LHAPDF](https://www.lhapdf.org/index.html). 
 
 Considered targets here are Fe, protons, O and H2O, where flavors=5 has been assumed for every case.
 The [CT18 ANLO](https://journals.aps.org/prd/abstract/10.1103/PhysRevD.103.014013) and [EPPS21 NLO](https://link.springer.com/article/10.1140/epjc/s10052-022-10359-0) global QCD analysis have been used for the nucleon and nucleus PDF sets, respectively.
